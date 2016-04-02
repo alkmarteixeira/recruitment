@@ -1,0 +1,53 @@
+{
+  "name": "recruitment_suiteplus",
+  "version": "1.0.0",
+  "description": "Projeto de busca de informações de deputados",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alkmar Teixeira",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.4",
+    "express-handlebars": "^3.0.0",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-jshint": "^2.0.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^1.5.3",
+    "jsdoc": "^3.4.0",
+    "jsdom": "^8.2.0",
+    "jshint": "^2.9.1",
+    "mongoose": "^4.4.10",
+    "node-inspector": "^0.12.7",
+    "restify": "^4.0.4",
+    "request": "^2.69.0"
+  },
+  "devDependencies": {
+    "express": "^4.13.4",
+    "express-handlebars": "^3.0.0",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-jshint": "^2.0.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^1.5.3",
+    "jsdoc": "^3.4.0",
+    "jshint": "^2.9.1",
+    "mongoose": "^4.4.10",
+    "node-inspector": "^0.12.7",
+    "request": "^2.69.0",
+    "restify": "^4.0.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alkmarteixeira/recruitment.git"
+  },
+  "keywords": [
+    "deputados"
+  ],
+  "bugs": {
+    "url": "https://github.com/alkmarteixeira/recruitment/issues"
+  },
+  "homepage": "https://github.com/alkmarteixeira/recruitment#readme"
+}
